@@ -1,5 +1,7 @@
-# Patrones
+# Patrones vistos en clase (incluyendo el quiz)
 
-|Tables| Are | Cool|
-|-------|:--------:|--------:|
-|col3 is| centered | hola|
+| Creacionales | Estructura | Comportamiento |
+|-------|--------|--------|
+| Factory | Decorador | Command|
+| Singleton | Proxy | | |
+| Builder |  |  |
